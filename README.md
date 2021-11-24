@@ -1,6 +1,6 @@
-# Heart-Disease-Prediction
+# Heart Disease Prediction
 A project that predicts whether a person is suffering from heart disease or not.
-The project involves training a machine learning model (K Neighbors Classifier) to predict whether someone is suffering from a heart disease with 87% accuracy.
+The project involves training a machine learning model (K Neighbors Classifier) to predict whether someone is suffering from heart disease with 87% accuracy.
 
 
 # HEART DISEASE PREDICTOR  :chart:	
@@ -9,7 +9,7 @@ This project is an individual contribution.
 #### -- Project Status: [Completed]
 
 ## Project Objective
-The purpose of this project is to build various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Furthermore, choosing the most appropriate model based on its accuracy score.
+This project aims to build various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Furthermore, choosing the most appropriate model based on its accuracy score.
 
 ### Partner
 * Partner contact: [Dr. Umadevi V.] [https://sites.google.com/site/drvumadevi/]
@@ -30,9 +30,7 @@ The purpose of this project is to build various Machine & Deep Learning Models t
 
 ## Project Objective
 
-* 
-
-The project involves training a machine learning model (K Neighbors Classifier) to predict whether someone is suffering from a heart disease with 87% accuracy.
+* The project involves training a machine learning model (K Neighbors Classifier) to predict whether someone is suffering from heart disease with 87% accuracy.
 
 ## Needs of this project
 
