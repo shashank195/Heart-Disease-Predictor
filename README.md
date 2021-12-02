@@ -42,10 +42,3 @@ This project aims to build various Machine & Deep Learning Models that will pred
 
 **Team Leads (Contacts) : [Shashank Kumar](https://github.com/shashank195])**
 
-#### Other Members:
-
-|Name     |   Handle   | 
-|---------|-----------------|
-|[Mohammad Arafat Khan](https://github.com/Arafat2198)  | @MohammadArafatKhan |
-|[Siddhartha Ghosh](https://github.com/siddhartha2000)  | @SiddharthaGhosh    |
-|[Shreyash Adhikari](https://github.com/Shreyash-BMSCE) | @ShreyashAdhikari   |
